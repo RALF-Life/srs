@@ -20,7 +20,7 @@
   + [3.6 On-line User Documentation and Help System Requirements](#36-on-line-user-documentation-and-help-system-requirements)
   + [3.7 Purchased components](#37-purchased-components)
   + [3.8 Interfaces](#38-interfaces)
-  + [3.8.1 User interfaces](#381-user-interfaces)
+    - [3.8.1 User interfaces](#381-user-interfaces)
     - [3.8.2 Hardware interfaces](#382-hardware-interfaces)
     - [3.8.3 Software interfaces](#383-software-interfaces)
     - [3.9.4 Communication Interface](#394-communication-interface)
