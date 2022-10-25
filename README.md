@@ -1,4 +1,4 @@
-# **Ralf - Software Requirements Specification**
+# **RALF** - Software Requirements Specification
 
 ## Table of contents
 
