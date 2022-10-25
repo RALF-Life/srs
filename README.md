@@ -128,8 +128,7 @@ Testing: Karate & Testify
 
 ### 3.8 Interfaces
 
-
-### 3.8.1 User interfaces
+#### 3.8.1 User interfaces
 
 - Sign In/Sign Up/Sign Out
 - User Dashboard
