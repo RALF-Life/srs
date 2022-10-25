@@ -64,29 +64,6 @@ Testing: Karate & Testify
 ### 3.1 Functionality
 > **Note**: See [Functional Requirements](./functional-requirements).
 
-#### 3.1.1 Account Management
-
-**Brief description:**
-
-The user should be able to activate their account after initial registration, change the password and also reset the account password when the user forgets their password.
-
-**GUI Mockup:**
-
-**Preconditions:**
-
-The user needs an account.
-
-**Postconditions:**
-
-The user should have an activated account and a changed password.
-
-**Effort Estimation:**
-
-Story points: 8
-
-Effort: 2 weeks
-
-
 ### 3.2 Usability
 
 - The user should intuitively know what to do and how to import data as well as change filters.
