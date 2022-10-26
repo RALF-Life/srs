@@ -66,12 +66,15 @@ All connections to databases and services which do anything should be actively m
 ## 2 Overall Description
 
 ### 2.1 Vision
+
 Many students complain about the look and feel of our native school timetable. Inspired by this we want to change the way students interact with that data. It should be made easily accessible to change data and make the timetable individual and valuable for each student.
 
 ### 2.2 Use Case Diagram
+
 ![image.png](https://cdn.discordapp.com/attachments/1032247172562948197/1032257766615679037/Screenshot_2022-10-19_at_13.43.44.png)
 
 ### 2.3 Technology Stack
+
 Backend: GoLang & MongoDB
 Frontend: React
 IDE: Jetbrains WebStorm & GoLand & VSCode & DataGrip
@@ -82,6 +85,7 @@ Testing: Karate & Testify
 ## 3. Specific Requirements
 
 ### 3.1 Functionality
+
 > **Note**: See [Functional Requirements](./functional-requirements).
 
 ### 3.2 Usability
@@ -110,13 +114,11 @@ Testing: Karate & Testify
 
 - Our infrastructure should be able to handle all incoming requests. It's also vital to be able to save all the user data such as passwords and emails. But our application doesn't require a lot of storage needs.
 
-
 ### 3.5 Supportability 
 
 - Our application will be created with widely used technologies, this makes it more likely that these languages and frameworks will be supported for a longer time. 
 
 - Our testing strategy also dictates to have a high test coverage to ensure the functionality of our application. It also helps to fix errors when adding or modifying code.
-
 
 ### 3.6 On-line User Documentation and Help System Requirements 
 
