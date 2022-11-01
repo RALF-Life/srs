@@ -28,6 +28,10 @@ The user should be able to activate their account after initial registration, ch
 
 ![](./assets/9acQO2JQFGF.png)
 
+### Flow of Events
+
+![](https://media.discordapp.net/attachments/792555443846119435/1035448470460432444/unknown.png)
+
 ### Preconditions:
 
 - The user needs an account.
@@ -133,10 +137,13 @@ The administrator should be able to view all existing accounts and change the pe
 
 ![](./assets/43X7tN3YuW3T.png)
 
+### Flow of Events
+
+![](https://media.discordapp.net/attachments/792555443846119435/1035448556657594398/unknown.png)
+
 ### Preconditions:
 
 - There have to be different types of users.
-
 
 ### Postconditions:
 
@@ -188,6 +195,10 @@ A user can enter an ICS and apply predefined flows (=> "Filterprofiles") to it. 
 ### GUI Mockup:
 
 ![](./assets/46pPas2lGoRe.png)
+
+### Flow of Events
+
+![](https://media.discordapp.net/attachments/792555443846119435/1035448389258719242/unknown.png)
 
 ### Preconditions:
 
