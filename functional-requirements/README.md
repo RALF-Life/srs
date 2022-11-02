@@ -30,11 +30,12 @@ The user should be able to activate their account after initial registration, ch
 
 ### Flow of Events
 
-![](https://media.discordapp.net/attachments/792555443846119435/1035448470460432444/unknown.png)
+![](https://media.discordapp.net/attachments/792555443846119435/1037399948934774814/unknown.png)
 
 ### Preconditions:
 
 - The user needs an account.
+- The user needs to be logged in.
 
 ### Postconditions:
 
@@ -139,11 +140,13 @@ The administrator should be able to view all existing accounts and change the pe
 
 ### Flow of Events
 
-![](https://media.discordapp.net/attachments/792555443846119435/1035448556657594398/unknown.png)
+![](https://media.discordapp.net/attachments/792555443846119435/1037400030132322424/unknown.png)
 
 ### Preconditions:
 
 - There have to be different types of users.
+- The user needs to be logged in
+- The user needs to have admin permissions
 
 ### Postconditions:
 
@@ -198,11 +201,12 @@ A user can enter an ICS and apply predefined flows (=> "Filterprofiles") to it. 
 
 ### Flow of Events
 
-![](https://media.discordapp.net/attachments/792555443846119435/1035448389258719242/unknown.png)
+![](https://media.discordapp.net/attachments/792555443846119435/1037399993629278329/unknown.png)
 
 ### Preconditions:
 
 - Have an ICS (or Rapla) that can be imported via URL
+- The user needs to be logged in
 
 ### Postconditions:
 
